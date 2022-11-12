@@ -1,4 +1,5 @@
-/dist/
-/build/
-/data/
+dist/
+build/
+data/
+**/__pycache__
 *.spec
