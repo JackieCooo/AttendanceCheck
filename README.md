@@ -1,4 +1,10 @@
 # AttendanceCheck —— 人脸考勤系统
+![](https://img.shields.io/badge/OpenCV-4.5.5.64-brightgreen.svg)
+![](https://img.shields.io/badge/PySide6-6.4.0.1-brightgreen.svg)
+![](https://img.shields.io/badge/dlib-19.24.0-brightgreen.svg)
+![](https://img.shields.io/badge/platform-windows-lightgrey.svg)
+![](https://img.shields.io/badge/language-python-orange.svg)
+
 
 ![](Others/img/home.png)
 
